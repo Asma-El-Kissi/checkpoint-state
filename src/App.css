@@ -1,0 +1,10 @@
+/* *:not(Button){
+  background: rgb(115,113,145);
+  background: linear-gradient(90deg, rgba(115,113,145,1) 0%, rgba(42,123,139,1) 28%, rgba(70,42,120,1) 100%);
+} */
+img{border-radius: 50%;
+  width: 150px;
+  height: 150px;}
+h1, h2, h3, h4{
+  text-align: center;
+}
